@@ -1,0 +1,11 @@
+var randomValue = 10;
+var dynamicData = "Hello";
+var apiResult = true;
+var userData = { name: "Monish" };
+var response = [1, 2, 3];
+var flexible = null;
+var unknownType = undefined;
+var info = { id: 101, active: false };
+var config = "Flexible variable";
+var data = 999;
+console.log("Any values:", randomValue, apiResult, info);
