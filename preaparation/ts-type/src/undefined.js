@@ -1,0 +1,11 @@
+var notSet = undefined;
+var missingName = undefined;
+var noEmail = undefined;
+var uninitialized = undefined;
+var noAddress = undefined;
+var undefinedAge = undefined;
+var tempData = undefined;
+var result = undefined;
+var apiResponse = undefined;
+var missingField = undefined;
+console.log("Undefined values:", notSet);

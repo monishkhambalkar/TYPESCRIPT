@@ -1,0 +1,11 @@
+var firstName = "Monish";
+var lastName = "Khambalkar";
+var country = "India";
+var city = "Nagpur";
+var greeting = "Hello, TypeScript!";
+var jobTitle = "Software Developer";
+var language = "JavaScript";
+var framework = "React";
+var message = "Welcome ".concat(firstName);
+var email = "monish@example.com";
+console.log("Strings:", greeting, message, email);

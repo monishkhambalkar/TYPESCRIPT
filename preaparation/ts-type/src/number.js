@@ -1,0 +1,11 @@
+var age = 25;
+var price = 99.99;
+var discount = 10;
+var marks = 85.5;
+var temperature = -12;
+var total = 5000;
+var speed = 120;
+var distance = 450.75;
+var rating = 4.7;
+var quantity = 100;
+console.log("Numbers:", age, price, total, rating);

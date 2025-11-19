@@ -1,0 +1,11 @@
+var emptyValue = null;
+var missingUser = null;
+var notAvailable = null;
+var noData = null;
+var deletedRecord = null;
+var canceledOrder = null;
+var clearedField = null;
+var lostConnection = null;
+var undefinedResult = null;
+var noResponse = null;
+console.log("Null values:", emptyValue);
